@@ -2,7 +2,7 @@
 
 ## feriaとは
 
-felesitas.cloudというmastodonサーバーの参加者用の、内部の方同士で交流するためのアプリです。
+felesitas.cloudというmastodonサーバーの参加者用の、内部の方向けの遊び場として作成されたアプリです。
 
 ## felesitas.cloudとは
 
